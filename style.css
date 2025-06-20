@@ -5,7 +5,7 @@
 }
 body{
     background-color: rgba(19, 18, 18, 0.932);
-    color:azure
+    color: #fff;
 }
 .fixedBanner{
     margin: 5px 5px 10px 7px;
@@ -32,7 +32,7 @@ body{
 }
 nav{
     height: 32px;
-    background-color: #fffafae1;
+    background-color: #fff;
     padding-top: 1px;
 }
 .nav-home{
@@ -63,7 +63,7 @@ nav{
     position: absolute;
     top:30px;
     padding: 10px;
-    background-color: #fffafae1;
+    background-color: #fff;
     z-index: 1000;
 }
 .dropdown li{
@@ -159,12 +159,12 @@ nav{
     color:rgba(0, 0, 0, 0.938);
 }
 #to-store button:hover{
-    color: #fffafae1;
+    color: #fff;
     background-color: rgba(0, 0, 0, 0.938);
     box-shadow: 1.5px 1.5px #e9e6e6e1;
 }
 #to-store a:hover{
-    color: #fffafae1;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -206,12 +206,12 @@ font-size: 2.5em;
     color:rgba(0, 0, 0, 0.938);
 }
 #whatWeOffer button:hover{
-    color: #fffafae1;
+    color: #fff;
     background-color: rgba(0, 0, 0, 0.938);
     box-shadow: 1.5px 1.5px #e9e6e6e1;
 }
 #whatWeOffer a:hover{
-    color: #fffafae1;
+    color: #fff;
     text-decoration: none;
 }
 #whatWeOffer .offerButton{
@@ -236,7 +236,7 @@ font-size: 2.5em;
     border-radius: 10px;
 }
 .itemsDisplay .item{
-    background-color: #fffafae1;
+    background-color: #fff;
     margin: 0 3px;
 }
 .itemsDisplay .item:hover{
@@ -334,7 +334,7 @@ footer{
 footer .contact a,
 footer .contact a:visited{
     text-decoration: none;
-    color: #fffafae1;
+    color: #fff;
 }
 footer .contact a:hover{
     text-decoration: underline;
@@ -361,6 +361,8 @@ footer img{
     display: inline-block;
     width: 30px;
     height: 20px;
+    background-color: #fff;
+    border-radius: 10%;
 }
 .fcontainer .icon img{
     width:100%;
@@ -471,11 +473,11 @@ footer img{
 .contact .chat-us a:visited{
     text-decoration: none;
     color: black;
-    border: 1px solid #fffafae1;
+    border: 1px solid #fff;
     padding: 2px;
     box-shadow: 2px 2px rgba(255, 255, 255, 0.342);
     border-radius: 4px;
-    background-color: #fffafae1;
+    background-color: #fff;
 }
 .contact .chat-us a:hover{
     background-color: rgba(177, 168, 168, 0.377);

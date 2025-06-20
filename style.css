@@ -724,13 +724,13 @@ footer img{
     height: 250px;
     }
     .flip-card{
-    width: 170px;
-    height: 145px;
+    width: 200px;
+    height: 170px;
     position: relative;
     }
     .flip-container{
-        width: 170px;
-        height: 145px;
+        width: 200px;
+        height: 170px;
         margin:2px;
     }
     .flip-card-back,

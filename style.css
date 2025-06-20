@@ -719,19 +719,19 @@ footer img{
     .copyright{
         font-size: 0.75em;
     }
-    .tcontainer{
-    width: 370px;
-    height: 250px;
+    .gadgets-display{
+        display: flex;
+        justify-content: space-between;
     }
     .flip-card{
-    width: 170px;
+    width: 45%;
     height: 160px;
     position: relative;
     }
     .flip-container{
-        width: 170px;
+        width: 45%;
         height: 160px;
-        margin:2px;
+        margin:0px;
     }
     .flip-card-back,
     .flip-card-front{

@@ -121,9 +121,11 @@ nav{
     left: 20%;
     padding:0 0 0 5px;
     font-size: 2.2rem;
-    font-family: "Caprasimo", serif;
+    font-family: "Anton", sans-serif;
     font-weight: 400;
     font-style: normal;
+    line-height: 1.1;
+    letter-spacing: 4px;
 }
 #to-store{
     margin-top: 10px;
@@ -291,7 +293,7 @@ font-size: 2.5em;
     display: flex;
     flex-direction: column;
     align-items: center;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 #testimonials>.reviews{
     display: flex;
@@ -306,7 +308,7 @@ font-size: 2.5em;
     min-width: 300px;
     text-align: center;
     flex-shrink: 1 1 auto;
-    margin: 5px auto;
+    margin: 10px auto;
     padding: 5px;
 }
 #testimonials>h2{
@@ -314,12 +316,13 @@ font-size: 2.5em;
     padding-top: 5px;
 }
 #testimonials>.reviews>.review>.reviewer{
-    margin-top: 5px;
+    margin-top: 10px;
     font-weight: 800;
     font-weight: 1.2em;
+    text-align: center;
 }
 #testimonials>.reviews>.review>p{
-    font-size: 1.2em;
+    font-size: 1.1em;
     letter-spacing: 0.5px;
     letter-spacing: 1.2px;
 }
@@ -356,6 +359,10 @@ footer img{
 }
 .fcontainer>.contact div{
     margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
 }
 .fcontainer .icon{
     display: inline-block;

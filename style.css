@@ -721,6 +721,7 @@ footer img{
     }
     .gadgets-display{
         padding: 2px;
+        gap:3px;
     }
     .flip-card{
     width: 45%;

@@ -724,12 +724,12 @@ footer img{
     height: 250px;
     }
     .flip-card{
-    width: 163px;
+    width: 170px;
     height: 160px;
     position: relative;
     }
     .flip-container{
-        width: 163px;
+        width: 170px;
         height: 160px;
         margin:2px;
     }

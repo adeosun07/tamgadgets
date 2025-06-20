@@ -720,8 +720,6 @@ footer img{
         font-size: 0.75em;
     }
     .gadgets-display{
-        display: flex;
-        justify-content: space-between;
         padding: 2px;
     }
     .flip-card{

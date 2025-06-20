@@ -722,6 +722,7 @@ footer img{
     .gadgets-display{
         display: flex;
         justify-content: space-between;
+        padding: 2px;
     }
     .flip-card{
     width: 45%;

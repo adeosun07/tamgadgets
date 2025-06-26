@@ -75,10 +75,12 @@ nav{
 .dropdown a:visited{
     text-decoration: none;
     color:rgba(0, 0, 0, 0.938);
+    -webkit-appearance: none;
 }
 .dropdown a:hover{
     color: green;
     text-decoration: underline;
+    -webkit-appearance: none;
 }
 .show-dropdown{
     display: inline-block;
@@ -154,11 +156,13 @@ nav{
     border-radius: 10px;
     margin: 10px 5px 5px 0;
     box-shadow: 1.5px 1.5px ;
+    -webkit-appearance: none;
 }
 #to-store a,
 #to-store a:visited{
     text-decoration: none;
     color:rgba(0, 0, 0, 0.938);
+    -webkit-appearance: none;
 }
 #to-store button:hover{
     color: #fff;
@@ -168,6 +172,7 @@ nav{
 #to-store a:hover{
     color: #fff;
     text-decoration: none;
+    -webkit-appearance: none;
 }
 
 #whatWeOffer{
@@ -201,24 +206,29 @@ font-size: 2.5em;
     border-radius: 10px;
     margin: 10px 5px 5px 0;
     box-shadow: 1.5px 1.5px ;
+    -webkit-appearance: none;
 }
 #whatWeOffer a,
 #whatWeOffer a:visited{
     text-decoration: none;
     color:rgba(0, 0, 0, 0.938);
+    -webkit-appearance: none;
 }
 #whatWeOffer button:hover{
     color: #fff;
     background-color: rgba(0, 0, 0, 0.938);
     box-shadow: 1.5px 1.5px #e9e6e6e1;
+    -webkit-appearance: none;
 }
 #whatWeOffer a:hover{
     color: #fff;
     text-decoration: none;
+    -webkit-appearance: none;
 }
 #whatWeOffer .offerButton{
     text-align: center;
     margin: 10px;
+    -webkit-appearance: none;
 }
 
 .itemsDisplay{
@@ -261,6 +271,7 @@ font-size: 2.5em;
     letter-spacing: 1.2px;
     font-weight: 500;
     border-radius: 4px;
+    -webkit-appearance: none;
 }
 .itemsDisplay p{
     font-family: 'Times New Roman', Times, serif;
@@ -272,6 +283,7 @@ font-size: 2.5em;
 .itemsDisplay a:visited{
     text-decoration: none;
     color:black;
+    -webkit-appearance: none;
 }
 .itemsDisplay .item a>.carting:hover{
     background-color: rgba(10, 10, 10, 0.123);
@@ -337,10 +349,12 @@ footer .contact a,
 footer .contact a:visited{
     text-decoration: none;
     color: #fff;
+    -webkit-appearance: none;
 }
 footer .contact a:hover{
     text-decoration: underline;
     color:rgba(51, 230, 51, 0.603);
+    -webkit-appearance: none;
 }
 footer img{
     width: 100%;
@@ -484,9 +498,11 @@ footer img{
     box-shadow: 2px 2px rgba(255, 255, 255, 0.342);
     border-radius: 4px;
     background-color: #fff;
+    -webkit-appearance: none;
 }
 .contact .chat-us a:hover{
     background-color: rgba(177, 168, 168, 0.377);
+    -webkit-appearance: none;
 }
 
 
@@ -585,9 +601,11 @@ footer img{
 .about-team>.projects a,
 .about-team>.projects a:visited{
     color: inherit;
+    -webkit-appearance: none;
 }
 .about-team>.projects a:hover{
     color:green;
+    -webkit-appearance: none;
 }
 
 /* Styling for about us page */
